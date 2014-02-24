@@ -6,7 +6,7 @@
     "start": "node app"
   },
   "dependencies": {
-    "express": "3.0.3",
+    "express": "3.0.3"
   },
   "devDependencies": {
     "restler": "~2.0.1"
